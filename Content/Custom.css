@@ -1,0 +1,25 @@
+﻿.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+.marginLeft45 {
+    margin-left: 45px;
+}
+
+.marginLeft80 {
+    margin-left: 80px;
+}
+
+.justifyListboxText {
+    text-align: justify;
+    text-justify: auto;
+    text-decoration-color: red;
+}
+
+.paddingTop {
+    padding-top: 5px;
+}
